@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Georgia Master-KMZ</name>
-	<Folder>
+	
 		<name>Georgia Master-KMZ</name>
 		<open>1</open>
 		<Document>
@@ -29,7 +29,7 @@
 					<styleUrl>#Style10</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style11</styleUrl>
@@ -95,7 +95,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>A025N3H-3 trajectory.kmz</name>
@@ -121,7 +121,7 @@
 					<styleUrl>#Style12</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style14</styleUrl>
@@ -171,7 +171,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>A025N3H-4 trajectory.kmz</name>
@@ -197,7 +197,7 @@
 					<styleUrl>#Style17</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style15</styleUrl>
@@ -231,7 +231,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>Alpharetta Hwy trajectory.kmz</name>
@@ -257,7 +257,7 @@
 					<styleUrl>#Style110</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style18</styleUrl>
@@ -267,7 +267,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>Brookwood_Rd trajectory.kmz</name>
@@ -293,7 +293,7 @@
 					<styleUrl>#Style113</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style112</styleUrl>
@@ -319,7 +319,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>Burruss Mill Rd trajectory.kmz</name>
@@ -345,7 +345,7 @@
 					<styleUrl>#Style116</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style114</styleUrl>
@@ -363,7 +363,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>Campground rd trajectory.kmz</name>
@@ -389,7 +389,7 @@
 					<styleUrl>#Style117</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style118</styleUrl>
@@ -407,7 +407,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>Canton hwy trajectory.kmz</name>
@@ -433,7 +433,7 @@
 					<styleUrl>#Style122</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style121</styleUrl>
@@ -451,7 +451,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>Canton Hwy_2 trajectory.kmz</name>
@@ -477,7 +477,7 @@
 					<styleUrl>#Style124</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style125</styleUrl>
@@ -495,7 +495,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>CCG_0806 trajectory.kmz</name>
@@ -521,7 +521,7 @@
 					<styleUrl>#Style127</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style128</styleUrl>
@@ -547,7 +547,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>CCG_0812_81321 trajectory.kmz</name>
@@ -573,7 +573,7 @@
 					<styleUrl>#Style131</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style129</styleUrl>
@@ -599,7 +599,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>CMY4H0160B_JB0000482796 trajectory.kmz</name>
@@ -625,7 +625,7 @@
 					<styleUrl>#Style134</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style132</styleUrl>
@@ -651,7 +651,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>CMY4H2100A_Y4212-1 trajectory.kmz</name>
@@ -677,7 +677,7 @@
 					<styleUrl>#Style136</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style137</styleUrl>
@@ -711,7 +711,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>CMY4H3090A _ Missing trajectory.kmz</name>
@@ -737,7 +737,7 @@
 					<styleUrl>#Style139</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style138</styleUrl>
@@ -787,7 +787,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>Dohlonega St trajectory.kmz</name>
@@ -813,7 +813,7 @@
 					<styleUrl>#Style143</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style142</styleUrl>
@@ -823,7 +823,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>FORSYTH_102621_CV2 trajectory.kmz</name>
@@ -849,7 +849,7 @@
 					<styleUrl>#Style146</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style144</styleUrl>
@@ -883,7 +883,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>FORSYTH_102621_CV3 trajectory.kmz</name>
@@ -909,7 +909,7 @@
 					<styleUrl>#Style148</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style149</styleUrl>
@@ -919,7 +919,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>ForsythCounty_072621_CV1 trajectory.kmz</name>
@@ -945,7 +945,7 @@
 					<styleUrl>#Style151</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style150</styleUrl>
@@ -979,7 +979,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>ForsythCounty_072721_CV1 trajectory.kmz</name>
@@ -1005,7 +1005,7 @@
 					<styleUrl>#Style155</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style153</styleUrl>
@@ -1055,7 +1055,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
 		<Document>
 			<name>ForsythCounty_072721_CV2 trajectory.kmz</name>
@@ -1081,7 +1081,7 @@
 					<styleUrl>#Style157</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style158</styleUrl>
@@ -1115,7 +1115,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>ForsythCounty_072721_CV3 trajectory.kmz</name>
@@ -1141,7 +1141,7 @@
 					<styleUrl>#Style161</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style159</styleUrl>
@@ -1175,7 +1175,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>ForsythCounty_CV_071121 trajectory.kmz</name>
@@ -1201,7 +1201,7 @@
 					<styleUrl>#Style164</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style162</styleUrl>
@@ -1211,7 +1211,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
 		<Document>
 			<name>ForsythCounty_CV_071121_file2 trajectory.kmz</name>
@@ -1237,7 +1237,7 @@
 					<styleUrl>#Style166</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style165</styleUrl>
@@ -1287,7 +1287,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>Independence Blvd trajectory.kmz</name>
@@ -1313,7 +1313,7 @@
 					<styleUrl>#Style168</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style169</styleUrl>
@@ -1323,7 +1323,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
 		<Document>
 			<name>Matt Hwy trajectory.kmz</name>
@@ -1349,7 +1349,7 @@
 					<styleUrl>#Style171</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style173</styleUrl>
@@ -1359,7 +1359,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
 		<Document>
 			<name>Nodes_0722 trajectory.kmz</name>
@@ -1385,7 +1385,7 @@
 					<styleUrl>#Style176</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style174</styleUrl>
@@ -1411,7 +1411,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>Nuckolls rd trajectory.kmz</name>
@@ -1437,7 +1437,7 @@
 					<styleUrl>#Style177</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style178</styleUrl>
@@ -1455,7 +1455,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>Okatie Bridges trajectory.kmz</name>
@@ -1481,7 +1481,7 @@
 					<styleUrl>#Style182</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style181</styleUrl>
@@ -1523,7 +1523,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
 		<Document>
 			<name>OKATIE HWY-1 trajectory.kmz</name>
@@ -1549,7 +1549,7 @@
 					<styleUrl>#Style185</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style184</styleUrl>
@@ -1559,7 +1559,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+	
 		</Document>
 		<Document>
 			<name>OKATIE HWY-2 trajectory.kmz</name>
@@ -1585,7 +1585,7 @@
 					<styleUrl>#Style187</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style186</styleUrl>
@@ -1595,7 +1595,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
 		<Document>
 			<name>Pea Ridge Rd trajectory.kmz</name>
@@ -1621,7 +1621,7 @@
 					<styleUrl>#Style190</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style191</styleUrl>
@@ -1639,7 +1639,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+	
 		</Document>
 		<Document>
 			<name>Peachtree Pkwy trajectory.kmz</name>
@@ -1665,7 +1665,7 @@
 					<styleUrl>#Style194</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+	
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style193</styleUrl>
@@ -1675,7 +1675,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+	
 		</Document>
 		<Document>
 			<name>Ronald regan blvd trajectory.kmz</name>
@@ -1701,7 +1701,7 @@
 					<styleUrl>#Style195</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style196</styleUrl>
@@ -1711,7 +1711,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
 		<Document>
 			<name>SAVANAH_JIMV_101221_2 trajectory.kmz</name>
@@ -1737,7 +1737,7 @@
 					<styleUrl>#Style1100</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+	
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style199</styleUrl>
@@ -1747,7 +1747,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+
 		</Document>
 		<Document>
 			<name>Savannah Hwy trajectory.kmz</name>
@@ -1773,7 +1773,7 @@
 					<styleUrl>#Style1101</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+	
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1103</styleUrl>
@@ -1783,7 +1783,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>Settingdown Rd trajectory.kmz</name>
@@ -1809,7 +1809,7 @@
 					<styleUrl>#Style1106</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+	
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1105</styleUrl>
@@ -1819,7 +1819,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
 		<Document>
 			<name>Shiloh Rd trajectory.kmz</name>
@@ -1845,7 +1845,7 @@
 					<styleUrl>#Style1109</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+	
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1107</styleUrl>
@@ -1855,7 +1855,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
 		<Document>
 			<name>SPAN_0720 trajectory.kmz</name>
@@ -1881,7 +1881,7 @@
 					<styleUrl>#Style1110</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+	
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1112</styleUrl>
@@ -1899,7 +1899,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
 		<Document>
 			<name>SR_0802 trajectory.kmz</name>
@@ -1925,7 +1925,7 @@
 					<styleUrl>#Style1113</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1114</styleUrl>
@@ -1951,7 +1951,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
 		<Document>
 			<name>SR_101121_1 trajectory.kmz</name>
@@ -1977,7 +1977,7 @@
 					<styleUrl>#Style1117</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1118</styleUrl>
@@ -1987,7 +1987,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
 		<Document>
 			<name>SR_101121_2 trajectory.kmz</name>
@@ -2013,7 +2013,7 @@
 					<styleUrl>#Style1120</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1121</styleUrl>
@@ -2023,7 +2023,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
 		<Document>
 			<name>SR_101121_3 trajectory.kmz</name>
@@ -2049,7 +2049,7 @@
 					<styleUrl>#Style1123</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1124</styleUrl>
@@ -2059,7 +2059,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+	
 		</Document>
 		<Document>
 			<name>SR_9032021 trajectory.kmz</name>
@@ -2085,7 +2085,7 @@
 					<styleUrl>#Style1126</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+	
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1127</styleUrl>
@@ -2119,7 +2119,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+	
 		</Document>
 		<Document>
 			<name>SR_9032021-2 trajectory.kmz</name>
@@ -2145,7 +2145,7 @@
 					<styleUrl>#Style1129</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1130</styleUrl>
@@ -2195,7 +2195,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>SR_9032021-3 trajectory.kmz</name>
@@ -2221,7 +2221,7 @@
 					<styleUrl>#Style1131</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1133</styleUrl>
@@ -2231,7 +2231,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+	
 		</Document>
 		<Document>
 			<name>SR_09152021-1 trajectory.kmz</name>
@@ -2257,7 +2257,7 @@
 					<styleUrl>#Style1136</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+	
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1135</styleUrl>
@@ -2291,7 +2291,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+	
 		</Document>
 		<Document>
 			<name>SR_09152021-2 trajectory.kmz</name>
@@ -2317,7 +2317,7 @@
 					<styleUrl>#Style1138</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1137</styleUrl>
@@ -2343,7 +2343,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
 		<Document>
 			<name>SR400-1 trajectory.kmz</name>
@@ -2369,7 +2369,7 @@
 					<styleUrl>#Style1142</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1140</styleUrl>
@@ -2379,7 +2379,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
 		<Document>
 			<name>SR400-2 trajectory.kmz</name>
@@ -2405,7 +2405,7 @@
 					<styleUrl>#Style1144</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1145</styleUrl>
@@ -2415,7 +2415,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>Swanee Rd trajectory.kmz</name>
@@ -2441,7 +2441,7 @@
 					<styleUrl>#Style1146</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1147</styleUrl>
@@ -2459,7 +2459,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
 		<Document>
 			<name>Union Hill rd trajectory.kmz</name>
@@ -2485,7 +2485,7 @@
 					<styleUrl>#Style1150</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1149</styleUrl>
@@ -2511,7 +2511,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+	
 		</Document>
 		<Document>
 			<name>Waldrip Rd trajectory.kmz</name>
@@ -2537,7 +2537,7 @@
 					<styleUrl>#Style1153</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1154</styleUrl>
@@ -2579,7 +2579,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+
 		</Document>
 		<Document>
 			<name>WS_JESUP_010622_CV1 trajectory.kmz</name>
@@ -2605,7 +2605,7 @@
 					<styleUrl>#Style1157</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1155</styleUrl>
@@ -2623,7 +2623,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+	
 		</Document>
 		<Document>
 			<name>WS_JESUP_010622_CV2 trajectory.kmz</name>
@@ -2649,7 +2649,7 @@
 					<styleUrl>#Style1160</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1159</styleUrl>
@@ -2675,7 +2675,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
 		<Document>
 			<name>WS_JESUP_010622_CV2-2 trajectory.kmz</name>
@@ -2701,7 +2701,7 @@
 					<styleUrl>#Style1163</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1161</styleUrl>
@@ -2719,7 +2719,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+	
 		</Document>
 		<Document>
 			<name>WS_JESUP_010622_CV3 trajectory.kmz</name>
@@ -2745,7 +2745,7 @@
 					<styleUrl>#Style1166</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1164</styleUrl>
@@ -2771,7 +2771,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
 		<Document>
 			<name>WS_JESUP_010622_CV4 trajectory.kmz</name>
@@ -2797,7 +2797,7 @@
 					<styleUrl>#Style1167</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1168</styleUrl>
@@ -2855,7 +2855,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
 		<Document>
 			<name>WS_JESUP_010622_CV5 trajectory.kmz</name>
@@ -2881,7 +2881,7 @@
 					<styleUrl>#Style1171</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1170</styleUrl>
@@ -2915,7 +2915,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+	
 		</Document>
 		<Document>
 			<name>WS_JESUP_010622_CV6 trajectory.kmz</name>
@@ -2942,7 +2942,7 @@
 					<styleUrl>#Style1175</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1174</styleUrl>
@@ -2968,7 +2968,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+			
 		</Document>
 		<Document>
 			<name>Y4203 trajectory.kmz</name>
@@ -2994,7 +2994,7 @@
 					<styleUrl>#Style1176</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+			
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1177</styleUrl>
@@ -3004,7 +3004,7 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
 		<Document>
 			<name>Y4312A_Y4213 trajectory.kmz</name>
@@ -3030,7 +3030,7 @@
 					<styleUrl>#Style1181</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Folder>
+		
 				<name>Model 1 (Model)</name>
 				<Placemark>
 					<styleUrl>#Style1180</styleUrl>
@@ -3072,8 +3072,8 @@
 						</coordinates>
 					</LineString>
 				</Placemark>
-			</Folder>
+		
 		</Document>
-	</Folder>
+	
 </Document>
 </kml>
