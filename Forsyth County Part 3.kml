@@ -1,0 +1,1802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Document>
+	<name>Forsyth County Part 3.kmz</name>
+	<Style id="boundaryHue">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue0">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue79</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue74</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue2">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue42</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue80</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue4">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue5">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue6">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue44</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue47</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue8">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue9">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue10">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue11">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue12">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue13">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue15">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue125</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue17">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue18">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue19">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue129</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="boundaryHue21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue148</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue22">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue23">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue24">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue25">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue98</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue109</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue27">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue28">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue29">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue56</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue31">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue32">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue33">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue34">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue105</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue94</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue35">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue36">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue37">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue86</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue68</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue38">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue39">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue40">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue57</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue82</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue42">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue43">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue166</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue44">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue45">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue46">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue97</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue95</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue47">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue48">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue83</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue65</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue49">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue50">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue51">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue52">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue133</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue111</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="boundaryHue53">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue153</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue54">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue55">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue56">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue57">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue58">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="boundaryHue59">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue132</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue127</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue60">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue61">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue62">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue63">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue81</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue35</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue64">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue65">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue66">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue67">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue68">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue69">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue70">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue71">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue72">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue73">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue67</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue61</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue74">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue75">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue104</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="boundaryHue76">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue91</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="boundaryHue77">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue49</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue64</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="boundaryHue78">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue32</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue79">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue80">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue81">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue82">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue83">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue84">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="boundaryHue85">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue27</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue86">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue87">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue71</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="boundaryHue88">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue152</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue124</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue89">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue90">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue118</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue158</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue91">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue92">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue51</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue45</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="boundaryHue93">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue159</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue107</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue94">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue95">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue96">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue146</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue144</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue97">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue98">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue99">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue150</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue134</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue100">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue101">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue38</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue36</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="boundaryHue102">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue142</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue126</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="boundaryHue103">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue165</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue147</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue104">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue105">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue106">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue107">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue108">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue109">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue110">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue111">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue112">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue113">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue114">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue62</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="boundaryHue115">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue72</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue66</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="boundaryHue116">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue54</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue89</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="boundaryHue117">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue139</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue151</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue118">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue119">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue163</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue120">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue121">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue122">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue28</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="boundaryHue123">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue121</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue131</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue124">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue125">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue126">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue127">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue128">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue149</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue156</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue129">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue130">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue131">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue132">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue133">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue134">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue135">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue55</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="boundaryHue136">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue33</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue39</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="boundaryHue137">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue130</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue140</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="boundaryHue138">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue113</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue139">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue140">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue141">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue142">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue143">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue69</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue144">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue145">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue164</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue146">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue147">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue148">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue149">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue150">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue151">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue152">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue153">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue154">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue112</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue106</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue155">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue156">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue157">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue161</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue158">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue159">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue160">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue155</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue141</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue161">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="boundaryHue162">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#boundaryHue13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#boundaryHue2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="boundaryHue163">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue164">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue165">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="boundaryHue166">
+		<LineStyle>
+			<color>ffffff00</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	
+		<name>Forsyth County Part 3</name>
+		<open>1</open>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue103</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue48</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.01936926849712,34.33432643583311,0 -83.92995302934483,34.33501107995995,0 -83.92986198134012,34.27033181759712,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue59</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.02030793227068,34.26644220694667,0 -83.93007877097649,34.26680989032717,0 -83.92992635955486,34.27073723741135,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue88</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.0198741910352,34.2666293519673,0 -84.01966183964538,34.30921865258376,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue41</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.01940267248506,34.30892522579094,0 -84.01973016823729,34.33430660145357,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue128</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue26</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.01883148951688,34.33437517060932,0 -84.01286215356143,34.33122734808631,0 -84.01165902325705,34.33042975997589,0 -84.01092912633537,34.32986463578323,0 -84.01038318026296,34.32906560816978,0 -84.00638223113619,34.32340001572209,0 -84.0048605739933,34.32167276211067,0 -84.00329782699872,34.31995325108507,0 -84.01059112262477,34.32931765551555,0 -84.01113860856169,34.32913383721663,0 -84.01153537739235,34.32913407481296,0 -84.01228882514675,34.32923350730047,0 -84.01267044673438,34.32923372366703,0 -84.01323341772529,34.32896623316748,0 -84.01366186306761,34.32867363895081,0 -84.01421681198117,34.32830227522373,0 -84.01453784028811,34.32799004154059,0 -84.01535477766936,34.32761528153422,0 -84.01589580844779,34.32721963495969,0 -84.01623778588326,34.3265862985694,0 -84.0168838434259,34.32588193714896,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue145</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.01686351202871,34.32588197573514,0 -84.01688563745417,34.32583891906264,0 -84.0171826071155,34.32568391886223,0 -84.01771634343876,34.32566113272533,0 -84.01814954760218,34.32556199872268,0 -84.01849635455814,34.32535151176437,0 -84.01882322554921,34.32497917987252,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue87</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.0188279610754,34.32497887587524,0 -84.01964732734294,34.32421748699445,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue101</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.01970391682853,34.31405033929262,0 -84.01871830235793,34.31590909986441,0 -84.018196222033,34.31658497113317,0 -84.01750066243483,34.31713768556386,0 -84.01702537558953,34.31734296043982,0 -84.01617336374534,34.3175112733602,0 -84.01505260691596,34.31748460580235,0 -84.01369228818608,34.31748385979969,0 -84.01286774799279,34.3175486527003,0 -84.0122061745965,34.31769267695743,0 -84.01117240409926,34.31810539842942,0 -84.01032214880279,34.31836299992717,0 -84.00970002170301,34.3184586630532,0 -84.00915244379262,34.31862413531284,0 -84.00844044607102,34.3187770206878,0 -84.00735272211701,34.31917245695634,0 -84.00647276652684,34.31947463043245,0 -84.00576108096853,34.31970816041646,0 -84.00521968331121,34.31976678084943,0 -84.00455951500079,34.31981072574983,0 -84.003791921038,34.31985469917314,0 -84.00338189931831,34.32001827391272,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue78</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.00332708312079,34.31999705945988,0 -84.00091406022737,34.31714769948109,0 -83.99929519458213,34.31518581109022,0 -83.99781340529826,34.31403248833152,0 -83.99657438561964,34.31307104484679,0 -83.99536227448732,34.3126174865135,0 -83.99441725089223,34.31194547351153,0 -83.99238141582978,34.31096404116568,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue76</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.01966026341741,34.30681644516601,0 -84.01881448279399,34.30665591033608,0 -84.0180174466509,34.30636305809573,0 -84.01610398816948,34.30544996369173,0 -84.01399773904139,34.30543207445012,0 -84.01121496095095,34.30541850171563,0 -84.00913754245852,34.30535518178549,0 -84.00786454875596,34.30527340867667,0 -84.00718932936175,34.30508077737959,0 -84.00609537209134,34.30423416537067,0 -84.00495262003191,34.30326783209065,0 -84.00437302820353,34.30253962521976,0 -84.003539036216,34.30173606868333,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue1</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.00353624767466,34.3017389725351,0 -84.00336234514045,34.30278374924724,0 -84.00328504555004,34.30392757878624,0 -84.00326413017181,34.30446322306497,0 -84.00325212243169,34.30583679029188,0 -84.00322452764108,34.3069920019984,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue53</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.00321863884143,34.30700062933613,0 -84.00317691531022,34.30799553249884,0 -84.00310453083591,34.30835805222114,0 -84.0028217535464,34.3088555820746,0 -84.002353025164,34.30916454161144,0 -84.00050829824653,34.31026168662053,0 -83.99972831433124,34.31053059383795,0 -83.99866256435519,34.31064805679508,0 -83.99717268456614,34.31077561096608,0 -83.99581958378772,34.31079261299995,0 -83.99523605032753,34.31080123431371,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue63</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.99520728725744,34.3108079548355,0 -83.99352898408594,34.31083194079687,0 -83.99291884508131,34.3108845764849,0 -83.99163510423988,34.31120682848243,0 -83.9907835040456,34.31155136034577,0 -83.98949982261972,34.31215014981601,0 -83.98825199305921,34.31271970510441,0 -83.98748863195452,34.31302919519663,0 -83.98666656239008,34.31330075443886,0 -83.98612323803381,34.31353379443637,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue123</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.98613423270886,34.31353235164396,0 -83.98563136629851,34.31365011948308,0 -83.98506264549675,34.31387729013159,0 -83.98443655991369,34.31423861747427,0 -83.98389511183022,34.31458534393504,0 -83.98331429629006,34.314938950889,0 -83.98210196065411,34.31568448176097,0 -83.98158230017108,34.31607793198886,0 -83.98112016104518,34.31681872090255,0 -83.9803667438273,34.31713770950123,0 -83.97945024742661,34.31724319362274,0 -83.97855181751561,34.31724171272275,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue115</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.97854815682973,34.3172391334752,0 -83.97784861699924,34.31729745698959,0 -83.9773646569046,34.31739002330682,0 -83.97682228437351,34.31798871341941,0 -83.97629796581536,34.31855092569994,0 -83.97556012195246,34.31914622740387,0 -83.97453439972799,34.31998669469195,0 -83.9737262625448,34.32058518422877,0 -83.9729489675135,34.32106883123966,0 -83.9724714927348,34.32129518878004,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue75</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.97242268944655,34.32129742219628,0 -83.97161971397416,34.32164067784907,0 -83.97104778252603,34.32180946471615,0 -83.97085629643794,34.32186897091164,0 -83.97008287625557,34.32186134711603,0 -83.96909600054451,34.32202615545481,0 -83.96870236936647,34.3220861707231,0 -83.96776729247185,34.32221899597237,0 -83.96683102406664,34.3223935187278,0 -83.96644474108155,34.32258685341525,0 -83.9661762921464,34.32256864837128,0 -83.96571436820302,34.32249514180242,0 -83.96498382980307,34.32249503597173,0 -83.96461300031423,34.32262094463074,0 -83.96425721555336,34.32281151044436,0 -83.96384233813275,34.32308637490653,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue137</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.00332222836796,34.32012060556391,0 -84.00278864358758,34.32076906531235,0 -84.00249355226535,34.32130897633155,0 -84.00228504596518,34.32189242020608,0 -84.0020175390605,34.3221169170092,0 -84.00137728643597,34.32240569832937,0 -84.00067568128092,34.32262170744693,0 -83.9999086048615,34.322832781143,0 -83.99847314029289,34.32328014029063,0 -83.9982419260771,34.3234516782771,0 -83.99814957735353,34.32381695256639,0 -83.99819301607478,34.32413021167142,0 -83.99833659218361,34.32467569364943,0 -83.9984356572198,34.32523439549005,0 -83.99842854843968,34.32572991169754,0 -83.99836244989679,34.3261417355514,0 -83.99828961964097,34.32646003147491,0 -83.99807587548628,34.32685389973747,0 -83.99815550390448,34.3278431468074,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue58</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.99815417114125,34.32784970447694,0 -83.99829208274052,34.3286491341757,0 -83.99817771418016,34.32920143283771,0 -83.99785998294435,34.32981620905082,0 -83.9973419426578,34.33007302480713,0 -83.99632033011545,34.33032694076405,0 -83.99596017368796,34.33052716985401,0 -83.99569005488945,34.33094092647888,0 -83.99533883016518,34.33118727124718,0 -83.99482733527084,34.33126727693661,0 -83.99436006706227,34.33142698084678,0 -83.9935345368671,34.33170188949313,0 -83.99306560774846,34.3319766203929,0 -83.99282479804658,34.33232178964099,0 -83.99252240972135,34.33245160407263,0 -83.99210899839565,34.33260130642677,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue7</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.99207934196335,34.33261787074791,0 -83.99143052756348,34.33310451029413,0 -83.98977546890134,34.33453125290399,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue90</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.99121597667886,34.33329764300058,0 -83.9909070481576,34.33322757180833,0 -83.99013678323905,34.33354514250717,0 -83.98961161402949,34.33370698211691,0 -83.98911351762463,34.3338054569343,0 -83.98847667691628,34.33373388292129,0 -83.98807840959059,34.33361355521858,0 -83.98786585985442,34.33330285086289,0 -83.98760470933492,34.33281296347065,0 -83.98708067317435,34.33273679362483,0 -83.98640825194799,34.3327600787704,0 -83.98566031917957,34.33271456997229,0 -83.98518905454377,34.33257016194482,0 -83.98467235543245,34.33246445641944,0 -83.98421447959426,34.33247199553435,0 -83.98401851698559,34.332359229667,0 -83.98399568068167,34.33177138346329,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue160</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.98398956928173,34.33180333396788,0 -83.98397135779241,34.33092548361327,0 -83.98390142668264,34.33066275996326,0 -83.98370202389654,34.33053765129524,0 -83.98286516962965,34.33049027018309,0 -83.98255384396398,34.3305581714718,0 -83.98186812416763,34.33114985969139,0 -83.98100489238819,34.33149682423151,0 -83.98068799327864,34.33156971757212,0 -83.98053230232334,34.33144786655114,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue37</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.00353466490439,34.30173040875847,0 -84.00320243459697,34.30021027912193,0 -84.00284719144973,34.2997137786176,0 -84.00048777311648,34.29680272657421,0 -84.00010416769798,34.29619337612703,0 -83.9997411869376,34.29410315412296,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue108</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.00298241177758,34.29984171182706,0 -84.00325521642627,34.29960044446739,0 -84.00352559927464,34.29861708315976,0 -84.00458023295661,34.29676976613322,0 -84.0060663311998,34.29519566115254,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue96</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.00603658393354,34.2951867402327,0 -84.00731068618249,34.29387581764357,0 -84.00678070883069,34.29346242412979,0 -84.00628151802998,34.29309907737986,0 -84.00614313656668,34.29275351378875,0 -84.00238306727415,34.29350264346928,0 -83.9995819357089,34.294177585939,0 -83.9978522221766,34.29483939183914,0 -83.99584750722101,34.29557074115225,0 -83.99511603761488,34.29583245263474,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue114</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.00616684312867,34.29275683058132,0 -84.00883286117974,34.29198281771959,0 -84.0109681359469,34.29143484646341,0 -84.01245234874469,34.29122280951494,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue136</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.01241048129333,34.29122900544034,0 -84.01483918187957,34.29111818992227,0 -84.01986549490753,34.29096234190298,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue43</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.0155656365434,34.2910259091886,0 -84.01593225360701,34.29023271192364,0 -84.01678707080815,34.28960954641545,0 -84.01797107739559,34.28856500791173,0 -84.01895927803851,34.28797519387965,0 -84.01992777857927,34.2877134373409,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.99970849126508,34.29406958915096,0 -83.9994906050559,34.29248486933447,0 -83.99905019304182,34.29016333317161,0 -83.9987661256305,34.28748326727291,0 -83.99883646494153,34.28643900246962,0 -83.99932895735299,34.2848101102037,0 -84.00050453109428,34.28283600875773,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.00050480216255,34.28284287874811,0 -84.00068089753103,34.2814380628224,0 -84.00092603172966,34.28005280433015,0 -84.00096283891178,34.27841972485228,0 -84.00073320584134,34.27688389033596,0 -84.00073230158959,34.27588111258436,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue85</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-84.00072548370692,34.27591041185664,0 -84.00068336312755,34.27456510638478,0 -84.00016944743105,34.27335008155057,0 -84.00010388587036,34.27312014184628,0 -84.00001601268858,34.2714362937592,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue16</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.99999961792187,34.27142626310437,0 -83.99934184424703,34.26923097228774,0 -83.99914572675036,34.26876163260675,0 -83.99910609596603,34.26815831294563,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue77</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.99909549737002,34.26815332450364,0 -83.99914539916095,34.26638855516001,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue157</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.99506933260652,34.29580474343982,0 -83.98695702217549,34.29869081232056,0 -83.98323084444364,34.30026231230048,0 -83.98206552929635,34.3008275720473,0 -83.98048113147588,34.30160518632811,0 -83.97978069239676,34.30207988495794,0 -83.9792827500263,34.3026380285817,0 -83.97887600715622,34.30417496517745,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue73</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.98307930163257,34.30036685683479,0 -83.98212261389131,34.29794788365531,0 -83.98188805549772,34.2970304077861,0 -83.98233684976586,34.29596810278392,0 -83.9829383828306,34.29468096288522,0 -83.9830089358875,34.29428384878744,0 -83.9828666433478,34.29316702012146,0 -83.98288235226096,34.29240480376477,0 -83.98306528950739,34.29096928623289,0 -83.98306964966675,34.28981193400799,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue138</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.98306740881796,34.28987932359755,0 -83.98308909907588,34.28908117081841,0 -83.98302915613526,34.28856035713582,0 -83.9833013911413,34.28745535209632,0 -83.98326418598664,34.28685654581724,0 -83.98280030832132,34.2864170126271,0 -83.98143671460024,34.28496938281,0 -83.98135048067147,34.28478539690438,0 -83.98174893305595,34.2834415222173,0 -83.98198767629063,34.28253412337968,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue93</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.98198060930591,34.28259460065024,0 -83.98284382036424,34.27949100300896,0 -83.98294331521352,34.27918667757334,0 -83.98286183950974,34.27891203890882,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue46</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.98283566169995,34.27892151031335,0 -83.98246697903328,34.27779572156268,0 -83.98221633922996,34.27684253046364,0 -83.98216410803948,34.27653080193699,0 -83.98203340475499,34.27593388718854,0 -83.98206379339599,34.27525139948185,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue116</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.98206060202952,34.27525632512365,0 -83.98198568613762,34.27376172966513,0 -83.98171602345144,34.27196119801317,0 -83.98160997349855,34.2712925279219,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue30</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.98160670568292,34.27128404218027,0 -83.98144627833453,34.27050352729807,0 -83.9808226543603,34.26933050495387,0 -83.98019299911383,34.26815959060818,0 -83.97928469723377,34.2666757842788,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue143</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.99241424641239,34.31102066200163,0 -83.98446898846177,34.30693189947595,0 -83.98006433856668,34.30460100460518,0 -83.97872566691392,34.30410870967763,0 -83.97730754102651,34.30373394552395,0 -83.97557948001926,34.30395820508789,0 -83.97409389439485,34.3043276814206,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue84</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.97409814615089,34.30432410579153,0 -83.96964307040052,34.30591196983507,0 -83.96564996358393,34.30735762544876,0 -83.96256865326043,34.30845452300431,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue135</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.96256752459561,34.30844597758921,0 -83.96105384248244,34.3089178828361,0 -83.95922980504074,34.30934684241493,0 -83.95640715596831,34.31002708527681,0 -83.9541061169447,34.31063891469583,0 -83.95171778635856,34.31162528208552,0 -83.95059265193487,34.31206259895002,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue102</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.95066987043144,34.31204444628399,0 -83.94968454498039,34.31245211956137,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue99</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.9791051741424,34.30282911324633,0 -83.9783690425002,34.30272288627751,0 -83.9780177933352,34.30281335289184,0 -83.97680837920825,34.30330333122235,0 -83.97601633659642,34.30357875769911,0 -83.97516025634232,34.3036386739771,0 -83.97424370139251,34.30355804759021,0 -83.97307817645965,34.30324921050282,0 -83.9713516601354,34.30220588379574,0 -83.96801660144939,34.30026996172354,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue34</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.96799814288951,34.30027752480854,0 -83.96511389518213,34.29853696942624,0 -83.96283104053515,34.29712016595929,0 -83.96249517512713,34.29680106904282,0 -83.96179615339553,34.29529927040986,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue162</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.96179641219602,34.29531772180651,0 -83.96132290445894,34.29404396377318,0 -83.9607974777807,34.29259841017282,0 -83.96059729226434,34.29207349447065,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue14</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.9605922067956,34.29207390145968,0 -83.96019974950757,34.29124516699212,0 -83.95974967096764,34.29068061167938,0 -83.9589686430086,34.29011193448874,0 -83.95802528453876,34.28972811964021,0 -83.95661049994182,34.28931719533951,0 -83.95554801511045,34.28894542613457,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue92</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.95553770906459,34.28893709753199,0 -83.95486274157047,34.28860103498908,0 -83.95283789614005,34.28704587470136,0 -83.95069545819084,34.28542958427487,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue52</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.95069956352643,34.28543189242545,0 -83.94933706939065,34.28448333553225,0 -83.94792450729939,34.28387912638397,0 -83.94577258624852,34.28314162412509,0 -83.94518198243784,34.28293533290335,0 -83.94505207663397,34.28267860076463,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue119</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.97879496286143,34.31722473470536,0 -83.97914162166187,34.31688827913151,0 -83.97953006270355,34.31542279034473,0 -83.97935285799296,34.31495446839251,0 -83.97851477619743,34.31355458938357,0 -83.97858280092125,34.31306764964818,0 -83.97838687540857,34.31251211759272,0 -83.97809895766636,34.31215234996231,0 -83.97731276298757,34.31190072482871,0 -83.97715010999093,34.31174612117194,0 -83.9770863971996,34.31152122469948,0 -83.97681803459803,34.31112067938763,0 -83.97668144704299,34.31079305643978,0 -83.97637433448423,34.31043221847366,0 -83.9759685555703,34.3099929454217,0 -83.97614354599227,34.30868330439907,0 -83.97647241408153,34.30840425940221,0 -83.97662062851805,34.30818119984876,0 -83.97720056826319,34.30810715884383,0 -83.97764939185537,34.30779749151019,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue21</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.97764799887446,34.30779067218527,0 -83.97811475792821,34.30715469530026,0 -83.97848764804792,34.30574261208949,0 -83.97861334196287,34.30522197978034,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue154</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.97861269129244,34.30523317155979,0 -83.97893282153291,34.30410348145978,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue117</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.97791916812487,34.30284463128226,0 -83.97789107698937,34.302459431271,0 -83.98037862173497,34.29938163726134,0 -83.98303761992197,34.29787774418181,0 -83.98388383070942,34.29743339732838,0 -83.98676403327508,34.29652874605591,0 -83.98719126358743,34.29659366101102,0 -83.98927232203023,34.29783120725746,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Untitled Path</name>
+			<styleUrl>#boundaryHue122</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-83.98311471274222,34.28669079717547,0 -83.98609179894137,34.28607450544355,0 -83.98732530484551,34.28595781936198,0 -83.9887783041321,34.28622377706841,0 -83.98998556571091,34.28670051063646,0 -83.99154184996446,34.28703998970104,0 -83.99335078429247,34.28792127005347,0 -83.9944196140913,34.28887110213956,0 -83.99572310391194,34.2892612619924,0 -83.99681434858689,34.28954199821801,0 -83.99751246529364,34.29004851045086,0 -83.99909360916119,34.29061851639518,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	
+</Document>
+</Document>
+</kml>
