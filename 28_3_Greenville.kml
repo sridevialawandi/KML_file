@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Greenville-G009.kmz</name>
+	<open>1</open>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_polygon350">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_polygon0400</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_polygon1100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_polygon1100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8c7f0055</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_polygon0400">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>8c7f0055</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer138">
+		<name>Greenville-G009</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_1380000">
+			<name>Boundary</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#msn_polygon350</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-82.28852481201173,34.94784733091916,0 -82.28596975493986,34.95186539173903,0 -82.28504874599537,34.95344821011053,0 -82.2817806497406,34.9564189559196,0 -82.28109732052371,34.95717380040363,0 -82.28097848065993,34.95919480140905,0 -82.27714589505207,34.96148358573696,0 -82.27601691634592,34.96401578327008,0 -82.27720531498397,34.96535489456129,0 -82.27747270467754,34.96613400378676,0 -82.27711618508611,34.96759481361538,0 -82.27723502494992,34.96881213524202,0 -82.27869081328159,34.96973728758064,0 -82.28017631157923,34.96859301868417,0 -82.28112703048967,34.96715657340176,0 -82.28213716933202,34.96547663086616,0 -82.2828502085149,34.96469751538955,0 -82.28492990613148,34.96423491206993,0 -82.28650453432698,34.96416186920177,0 -82.28813858245435,34.96394274020664,0 -82.29164435843667,34.96204359769995,0 -82.29211971789189,34.96182446303973,0 -82.29286246704073,34.95724684950086,0 -82.29339724642786,34.95488489570885,0 -82.29399144574688,34.95400827698273,0 -82.29517984438495,34.95249852275523,0 -82.29491245469144,34.95111049836698,0 -82.29425883544044,34.95018513571788,0 -82.29437767530425,34.94848049296803,0 -82.29274362717693,34.94633746322351,0 -82.2923573976195,34.94643487488169,0 -82.29226826772165,34.94648358066734,0 -82.29027770000292,34.94592346238522,0 -82.28852481201173,34.94784733091916,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+		<Placemark>
+			<name>Greenville-G009</name>
+			<LookAt>
+				<longitude>-82.28559838036546</longitude>
+				<latitude>34.95783037498293</latitude>
+				<altitude>0</altitude>
+				<heading>-1.590277340731758e-15</heading>
+				<tilt>0</tilt>
+				<range>4220.907485285406</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_polygon350</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-82.28617439012339,34.95676480189255,0</coordinates>
+			</Point>
+		</Placemark>
+		
+			<name>Streets</name>
+			<open>1</open>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-82.29426543264786,34.95428080839091,0 -82.2935424980711,34.95415375492489,0 -82.29281291878992,34.95407227179328,0 -82.29056707050276,34.95413456982025,0 -82.28945166409029,34.95416450786588,0 -82.28839165832319,34.95407787560335,0 -82.28580864655765,34.9535606220303,0 -82.28485770044989,34.95337018331926,0 -82.28500825633891,34.95370127967693,0 -82.28625329686932,34.95606844907392,0 -82.28630554852903,34.95622723086888,0 -82.28630552406538,34.95653540878558,0 -82.28627816012019,34.957635957533,0 -82.28619717692379,34.95837353951376,0 -82.28594419347738,34.95917868119015,0 -82.28572159536387,34.96002810697458,0 -82.28561014613987,34.96054089163558,0 -82.28567127856249,34.96059487193589,0 -82.28670246972526,34.96171636076541,0 -82.2868320232237,34.96190914751643,0 -82.28684234212152,34.96202012608624,0 -82.28677143393027,34.96311974423058,0 -82.28661720025606,34.96366414434314,0 -82.28644118009754,34.96409721684195,0 -82.28606342711818,34.96457489879461,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-82.2936247365768,34.95416297741153,0 -82.29338553116764,34.95433832302464,0 -82.29266189776888,34.9546425790971,0 -82.2920135169031,34.95503917416314,0 -82.29178201416627,34.9553129693025,0 -82.29097674233574,34.95619352761461,0 -82.29007025535319,34.95723847235641,0 -82.28934416233761,34.95834570164795,0 -82.2891794756267,34.95850469077092,0 -82.28890058694071,34.95864253590748,0 -82.28802306468506,34.95896147938104,0 -82.28707780250384,34.95921512947619,0 -82.28609403533922,34.95941737479575,0 -82.2858718815844,34.95943787873376,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-82.29001554496796,34.95729788448318,0 -82.28959927942886,34.95580463949143,0 -82.28911633686579,34.95414245482678,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-82.28929428708379,34.95841111009006,0 -82.2889978116665,34.95814569366604,0 -82.28875174173271,34.95770268329808,0 -82.28827265955157,34.956618327429,0 -82.28719618042204,34.95416912424048,0 -82.28710704477268,34.95396774591107,0 -82.28711395134162,34.95383337407817,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-82.28626338489701,34.95610904615544,0 -82.28635547203957,34.95615340743708,0 -82.28644935979374,34.95624207894924,0 -82.2879897685675,34.95896281976656,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-82.28676860357704,34.96313252520934,0 -82.28702752990402,34.9631795346204,0 -82.2874792763007,34.96320107984943,0 -82.28783378390685,34.96319307790389,0 -82.28814046560255,34.96310670556595,0 -82.2889957268289,34.96268519562216,0 -82.29100696377785,34.96169732680217,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-82.28742959529508,34.96041218874495,0 -82.28749261983945,34.96057064592577,0 -82.28759645092242,34.96068170961487,0 -82.28809474944227,34.96114972848329,0 -82.28827221474498,34.96130342370308,0 -82.28832669327232,34.96143024082448,0 -82.28839896720417,34.96167812752726,0 -82.2884525557165,34.96193037495912,0 -82.28851014834517,34.96209558989821,0 -82.28862894882046,34.96227921110312,0 -82.28980088039548,34.96381414302794,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-82.28560555811264,34.96053948640619,0 -82.28536160761614,34.96078340772264,0 -82.28510648153154,34.96099825665755,0 -82.28483036687321,34.96107201011002,0 -82.28427264812791,34.96109273360299,0 -82.28388071063057,34.9611206821285,0 -82.28363459963352,34.96124582333373,0 -82.28258534174232,34.9616288000685,0 -82.28068533210248,34.96263629284708,0 -82.2795899015974,34.96340714914385,0 -82.27920146301138,34.96365872993648,0 -82.27891694203944,34.96396693763541,0 -82.27847507146275,34.96445552718085,0 -82.27808776000208,34.96477534688435,0 -82.27718781245817,34.96537643337044,0 -82.27689686990857,34.96581236043479,0 -82.2765197704468,34.96648710688817,0 -82.27558066906192,34.96858767958805,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-82.27630244418044,34.96698284621498,0 -82.27824182982475,34.9676426356172,0 -82.27840412234873,34.96765882098367,0 -82.27847865726379,34.96764092735719,0 -82.27857920700387,34.9675669901649,0 -82.27957857869289,34.96591436120572,0 -82.27950457928831,34.9658205108498,0 -82.27909938896188,34.96575419123864,0 -82.27738590060528,34.96525795040476,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-82.2809964001617,34.96246831147215,0 -82.28077748160554,34.96235536321236,0 -82.28038095333301,34.96226091379749,0 -82.27712031734377,34.96150632530285,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-82.27836615168493,34.96178786054794,0 -82.27841289310888,34.96164420583781,0 -82.27851788726345,34.96154205785004,0 -82.27999511438892,34.96065341445235,0 -82.28078029746079,34.96010856023573,0 -82.28101153567275,34.95995548570026,0 -82.28120297167898,34.95992140087198,0 -82.28262926609254,34.95959198332518,0 -82.28313956174223,34.95948573828541,0 -82.28350685467278,34.95946381429363,0 -82.28366068641142,34.95950586023447,0 -82.28380128881422,34.95961377009655,0 -82.28398748200992,34.95984569967511,0 -82.28402295468119,34.9600226937275,0 -82.28397011842027,34.96020878076664,0 -82.28386391150507,34.9603766281838,0 -82.28370739180171,34.96050275674691,0 -82.28205292986262,34.96113599711838,0 -82.28083146982486,34.96168062247742,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-82.28215003029648,34.96110274304576,0 -82.28252191247307,34.96166957824391,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-82.28266422720377,34.95958388757488,0 -82.28246602721694,34.95894854059162,0 -82.28215466602782,34.95826923889216,0 -82.28201160925398,34.95800909964309,0 -82.28197630149455,34.95780791701953,0 -82.28200040060266,34.95738896702482,0 -82.2820500853142,34.95722982499161,0 -82.28207229598361,34.95712872406763,0 -82.28217766761237,34.95703676720135,0 -82.28233073722384,34.9569237116773,0 -82.28375812503887,34.9565071034673,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-82.28216665708294,34.95828302838841,0 -82.28258553528305,34.9581165410322,0 -82.28310101615037,34.95797926555733,0 -82.28429098439064,34.9578042791553,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-82.27952511059172,34.96587044513499,0 -82.28057325666333,34.96611834292444,0 -82.27953075688785,34.96587488987932,0 -82.27971486480831,34.96574780120299,0 -82.2799789713365,34.96553256422361,0 -82.28098030786364,34.96477980276943,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-82.28711066684376,34.95383853929753,0 -82.28754130504741,34.95353851346951,0 -82.28832737983898,34.95306507859213,0 -82.28850132133549,34.95287838540518,0 -82.2889638303527,34.95210594349588,0 -82.29046535740849,34.94958203624271,0 -82.29045845274186,34.94958221290567,0 -82.29057250834451,34.94940079148674,0 -82.29064406726548,34.94932947291798,0 -82.29077092999252,34.94932968779323,0 -82.2919403639349,34.94962650768176,0 -82.29198015213738,34.94973374266512,0 -82.29192277337775,34.94989886598476,0 -82.2909618541611,34.95246550643821,0 -82.29053906905214,34.9536097170996,0 -82.29045187851818,34.9539388050794,0 -82.29048467716821,34.95413589306085,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-82.29097322672976,34.95242043945041,0 -82.29201101485519,34.95267737960344,0 -82.29216904417683,34.95267416456395,0 -82.29228773904667,34.95253525927712,0 -82.29321777007664,34.94988293774648,0 -82.29327397120043,34.94975925871885,0 -82.29317527263071,34.94967828441462,0 -82.29210625849494,34.94944908575133,0 -82.29200143645264,34.94955127693358,0 -82.29192406318316,34.94966395291173,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-82.28871072915956,34.95255213241632,0 -82.28717876763054,34.95205820318731,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-82.28778059828852,34.95225517842801,0 -82.28844457629276,34.95120046817963,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		
+	
+</Document>
+</Document>
+</kml>
